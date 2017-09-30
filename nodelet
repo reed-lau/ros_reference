@@ -92,3 +92,8 @@ namespace @(namespace)
 
 PLUGINLIB_DECLARE_CLASS(@(package), @(NodeletClass), @(namespace)::@(NamespaceClass), nodelet::Nodelet);
  Previous
+
+
+
+reference
+http://www.clearpathrobotics.com/assets/guides/ros/Nodelet%20Everything.html
